@@ -1,5 +1,6 @@
 # landing-page 
 Написанный с помощью bootstrap (открытый и бесплатный HTML, CSS и JS фреймворк, который используется веб-разработчиками для быстрой вёрстки).
+Доступен к просмотру по ссылке: https://landing-page-5dw7o9u4h-uselesswhale1.vercel.app/
 ![image](https://user-images.githubusercontent.com/54992950/144476356-4d453e62-691e-4403-927d-f5a90c2f668b.png)
 ![image](https://user-images.githubusercontent.com/54992950/144476411-7ddc7ec2-ae5b-41ad-bbe0-a6afc9acce23.png)
 ![image](https://user-images.githubusercontent.com/54992950/144476438-6a4dd7d9-7b7f-4ee8-aab4-531a62f46977.png)
